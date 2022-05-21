@@ -1,13 +1,9 @@
 
-## _The Last Markdown Editor, Ever_
+## Simple Fighting Plane Game
+| 51aspx | [[plugins/dropbox/README.md](https://www.51aspx.com/code/BURFighterGame)][PlDb] |
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Simple Fighting Plane Game
 2014-11-19
-https://www.51aspx.com/code/BURFighterGame
+
 
 
 

@@ -1,7 +1,7 @@
 
 ## Simple Fighting Plane Game
-|I uploaded to 51aspx 2014-11-19 | 
-[51aspx](https://www.51aspx.com/code/BURFighterGame)  
+> I uploaded to [51aspx](https://www.51aspx.com/code/BURFighterGame)   2014-11-19 
+
 
 
 

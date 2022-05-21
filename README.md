@@ -1,8 +1,10 @@
 
 ## Simple Fighting Plane Game
-| 51aspx | [[plugins/dropbox/README.md](https://www.51aspx.com/code/BURFighterGame)][PlDb] |
+|I uploaded to 51aspx 2014-11-19 | 
+[51aspx](https://www.51aspx.com/code/BURFighterGame)  
 
-2014-11-19
+
+
 
 
 

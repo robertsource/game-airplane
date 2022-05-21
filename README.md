@@ -2,13 +2,7 @@
 ## Simple Fighting Plane Game
 > I uploaded this project to [51aspx](https://www.51aspx.com/code/BURFighterGame)   `2014-11-19`
 
-
-
-
-
-
-
-
+ 
 **Use winform to develop, operate with keyboard, very simple, no game engin, there are some small bugs, welcome to download**
 
 
